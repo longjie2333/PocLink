@@ -1,0 +1,29 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.pub/
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Android
+android/.gradle/
+android/build/
+android/local.properties
+android/app/build/
+android/captures/
+
+# iOS (if added later)
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/
+
+# Misc
+.DS_Store
+*.log
